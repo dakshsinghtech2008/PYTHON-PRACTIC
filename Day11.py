@@ -22,5 +22,3 @@ else :
                 print("DIVIDE : ",y/z)
             else :
                 print("INVALID ENTRY")
-
-   
